@@ -1,6 +1,6 @@
 /*
-Basic ESP8266 MQTT
-*/
+ * Basic ESP8266 MQTT
+ */
 
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
